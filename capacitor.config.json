@@ -1,0 +1,6 @@
+{
+  "appId": "com.rasa.futureproject",
+  "appName": "rasa",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
